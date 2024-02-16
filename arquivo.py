@@ -1,0 +1,1 @@
+print("escrevendo no arquivo")
